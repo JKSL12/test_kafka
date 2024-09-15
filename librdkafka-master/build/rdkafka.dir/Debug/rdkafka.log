@@ -1,0 +1,13 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in D:\TestRepo\librdkafka-master\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+     D:/TestRepo/librdkafka-master/build/Debug/rdkafka.lib 라이브러리 및 D:/TestRepo/librdkafka-master/build/Debug/rdkafka.exp 개체를 생성하고 있습니다.
+rdkafka.obj : error LNK2019: rd_http_global_initrd_kafka_global_init0 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_conf.obj : error LNK2001: 확인할 수 없는 외부 기호 rd_kafka_plugins_conf_set
+rdkafka_msgset_reader.obj : error LNK2019: rd_gz_decompressrd_kafka_msgset_reader_decompress 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_telemetry_decode.obj : error LNK2001: 확인할 수 없는 외부 기호 rd_gz_decompress
+rdunittest.obj : error LNK2019: unittest_httprd_unittest 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_sasl_oauthbearer_oidc.obj : error LNK2019: rd_http_error_destroyrd_kafka_oidc_token_refresh_cb 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_sasl_oauthbearer_oidc.obj : error LNK2019: rd_http_req_initut_sasl_oauthbearer_oidc_should_succeed 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_sasl_oauthbearer_oidc.obj : error LNK2019: rd_http_parse_jsonut_sasl_oauthbearer_oidc_should_succeed 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_sasl_oauthbearer_oidc.obj : error LNK2019: rd_http_post_expect_jsonrd_kafka_oidc_token_refresh_cb 함수에서 참조되는 확인할 수 없는 외부 기호
+rdkafka_sasl_oauthbearer_oidc.obj : error LNK2019: rd_http_req_destroyut_sasl_oauthbearer_oidc_should_succeed 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\TestRepo\librdkafka-master\build\Debug\rdkafka.dll : fatal error LNK1120: 9개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,4 @@
+D:/TestRepo/librdkafka-master/build/CMakeFiles/rdkafka.dir
+D:/TestRepo/librdkafka-master/build/CMakeFiles/INSTALL.dir
+D:/TestRepo/librdkafka-master/build/CMakeFiles/ALL_BUILD.dir
+D:/TestRepo/librdkafka-master/build/CMakeFiles/ZERO_CHECK.dir

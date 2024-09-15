@@ -1,0 +1,3 @@
+D:\TestRepo\TestKafka\TestKafka\x64\Debug\TestKafka.vcxproj.Up2Date
+D:\TestRepo\TestKafka\TestKafka\x64\Debug\TestKafka.exe
+D:\TestRepo\TestKafkaProducer\TestKafka\x64\Debug\TestKafka.vcxproj.Up2Date

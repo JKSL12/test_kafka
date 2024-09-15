@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\crc32c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdaddr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdavl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdbuf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdcrc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdfnv1a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdbase64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_assignor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_broker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_buf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_cgrp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_conf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_event.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_feature.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_lz4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_metadata.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_metadata_cache.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_msg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_msgset_reader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_msgset_writer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_offset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_op.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_partition.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_pattern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_range_assignor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_request.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_roundrobin_assignor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl_plain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sticky_assignor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_subscription.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_assignment.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_topic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_transport.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_interceptor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_header.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_admin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_aux.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_background.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_idempotence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_txnmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_cert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_coord.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_mock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_mock_handlers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_mock_cgrp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_fetcher.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_telemetry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_telemetry_decode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_telemetry_encode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\nanopb\pb_encode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\nanopb\pb_decode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\nanopb\pb_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\opentelemetry\metrics.pb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\opentelemetry\common.pb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\opentelemetry\resource.pb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdlist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdlog.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdmurmur2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdports.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdrand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdregex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdstring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdunittest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdvarint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\snappy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\tinycthread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\tinycthread_extra.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdxxhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\cJSON.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_ssl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdhdrhistogram.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rddl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl_scram.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl_oauthbearer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_sasl_oauthbearer_oidc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\rdkafka_zstd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\lz4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\lz4frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\lz4hc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TestRepo\librdkafka-master\src\regexp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\TestRepo\librdkafka-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B6F69D3-47D9-3AFB-B9A6-7B64E87CF294}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
